@@ -1,5 +1,12 @@
 #include "main.h"
 
+/**
+ * times_table - prints out times table
+ *
+ * Return: alays 0
+ *
+ */
+
 void times_table(void)
 {
 	int x, y, z, u, d;
