@@ -3,12 +3,13 @@
 /**
  * more_numbers - prints numbers x10
  *
- * Return: 0
+ * Return: always 0
  */
 
 void more_numbers(void)
 {
 	int x, y;
+
 	for (x = 0 ; x < 10 ; x++)
 	{
 		for (y = 0 ; y <= 14 ; y++)
