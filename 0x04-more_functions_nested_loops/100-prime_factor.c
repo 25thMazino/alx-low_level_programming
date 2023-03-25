@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include <math.h>
 
 /**
  * main - prints largest prime factors
@@ -17,7 +17,7 @@ int main(void)
 	{
 		if (number % x == 0)
 		{
-			maxf = nummber / x;
+			maxf = number / x;
 		}
 	}
 	printf("%ld\n", maxf);
