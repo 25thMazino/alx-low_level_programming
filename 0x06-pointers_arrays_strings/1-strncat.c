@@ -5,7 +5,7 @@
  *
  * @dest: destination string
  * @src: source string
- * @n: bytes used
+ * @n: number of appended characters
  *
  * Return: destination
  */
