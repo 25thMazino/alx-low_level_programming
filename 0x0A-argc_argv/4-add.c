@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <sting.h>
+#include <string.h>
 
 /**
  * main - adds positive numbers
@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 {
 	int i = 0;
 	unsigned int j, sum  = 0;
-	char *k
+	char *k;
 
 	if (argc > 1)
 	{
