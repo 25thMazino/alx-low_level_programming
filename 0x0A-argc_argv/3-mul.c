@@ -18,14 +18,13 @@ int main(int argc, char *argv[])
 	if (argc == 3)
 	{
 		num1 = atoi(argv[1]);
-		num2 = atoi(argv[1]);
+		num2 = atoi(argv[2]);
 		printf("%d\n", num1 * num2);
 	}
 	else
 	{
-		printf("error\n");
+		printf("Error\n");
 		return (1);
 	}
-
 	return (0);
 }
