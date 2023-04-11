@@ -5,8 +5,8 @@
 /**
  * main - prints the minimum amount of coins
  *
- * @argc - argument count
- * @argv - argument vector
+ * @argc: argument count
+ * @argv: argument vector
  *
  * Return: 0
  */
