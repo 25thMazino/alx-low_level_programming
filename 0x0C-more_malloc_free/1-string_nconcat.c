@@ -6,6 +6,7 @@
  *
  * @s1: allocated variable
  * @s2: allocated varaible
+ * @n: variable parameter
  *
  * Return: s1 or NULL
  */
